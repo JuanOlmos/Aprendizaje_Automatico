@@ -19,7 +19,7 @@ Publication Request:
       ...that any publications resulting from the use of the data include the 
       names of the principal investigator responsible for the data collection
       at each institution.  They would be:
-
+E
              4. V.A. Medical Center, Long Beach and Cleveland Clinic Foundation:
 	  Robert Detrano, M.D., Ph.D.
 
